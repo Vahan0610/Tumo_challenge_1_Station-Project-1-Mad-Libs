@@ -1,4 +1,4 @@
-#for text style
+##for text style
 import colorama 
 from colorama import Fore, Back, Style
 colorama.init()
